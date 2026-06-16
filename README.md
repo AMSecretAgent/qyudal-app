@@ -1,4 +1,4 @@
-# Qyudal ->
+# Qyudal  ->
 
 **A multi-agent news intelligence engine.**
 Built for **FAR AWAY 2026** · Theme: *Agentic & Autonomous Systems*.
