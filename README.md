@@ -1,7 +1,7 @@
 # Qyudal  ->
 
 **A multi-agent news intelligence engine.**
-Built for **FAR AWAY 2026** · Theme: *Agentic & Autonomous Systems*.
+
 
 Qyudal doesn't just surface the news — a system of specialized agents ingests, explains,
 predicts, debates, fact-checks and briefs each story, so you see every side and decide
